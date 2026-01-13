@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,apple-cdn.net
+  
 # > 月饼
   - DOMAIN-SUFFIX,emby.my
 # > M Entertainment
