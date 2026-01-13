@@ -1,0 +1,26 @@
+# ---------- AI 平台 ----------
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,deepmind.com
+
+# Google AI
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,bard
+DOMAIN-KEYWORD,generativelanguage
+
+# ---------- Google 全家桶 ----------
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+
+# ---------- 其他 ----------
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+
+# 如 AI return 内容日志分析等
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,diabrowser.engineering
